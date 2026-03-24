@@ -1,0 +1,325 @@
+{
+  "model_name": "openai/clip-vit-base-patch32",
+  "records": [
+    {
+      "file": "frames/frame_0.00s.jpg",
+      "timestamp": 0.0
+    },
+    {
+      "file": "frames/frame_4.96s.jpg",
+      "timestamp": 4.963291666666667
+    },
+    {
+      "file": "frames/frame_9.93s.jpg",
+      "timestamp": 9.926583333333333
+    },
+    {
+      "file": "frames/frame_14.89s.jpg",
+      "timestamp": 14.889874999999998
+    },
+    {
+      "file": "frames/frame_19.85s.jpg",
+      "timestamp": 19.853166666666667
+    },
+    {
+      "file": "frames/frame_24.82s.jpg",
+      "timestamp": 24.816458333333333
+    },
+    {
+      "file": "frames/frame_29.78s.jpg",
+      "timestamp": 29.779749999999996
+    },
+    {
+      "file": "frames/frame_34.74s.jpg",
+      "timestamp": 34.74304166666666
+    },
+    {
+      "file": "frames/frame_39.71s.jpg",
+      "timestamp": 39.70633333333333
+    },
+    {
+      "file": "frames/frame_44.67s.jpg",
+      "timestamp": 44.669624999999996
+    },
+    {
+      "file": "frames/frame_49.63s.jpg",
+      "timestamp": 49.63291666666667
+    },
+    {
+      "file": "frames/frame_54.60s.jpg",
+      "timestamp": 54.59620833333333
+    },
+    {
+      "file": "frames/frame_59.56s.jpg",
+      "timestamp": 59.55949999999999
+    },
+    {
+      "file": "frames/frame_64.52s.jpg",
+      "timestamp": 64.52279166666666
+    },
+    {
+      "file": "frames/frame_69.49s.jpg",
+      "timestamp": 69.48608333333333
+    },
+    {
+      "file": "frames/frame_74.45s.jpg",
+      "timestamp": 74.44937499999999
+    },
+    {
+      "file": "frames/frame_79.41s.jpg",
+      "timestamp": 79.41266666666667
+    },
+    {
+      "file": "frames/frame_84.38s.jpg",
+      "timestamp": 84.37595833333333
+    },
+    {
+      "file": "frames/frame_89.34s.jpg",
+      "timestamp": 89.33924999999999
+    },
+    {
+      "file": "frames/frame_94.30s.jpg",
+      "timestamp": 94.30254166666666
+    },
+    {
+      "file": "frames/frame_99.27s.jpg",
+      "timestamp": 99.26583333333333
+    },
+    {
+      "file": "frames/frame_104.23s.jpg",
+      "timestamp": 104.229125
+    },
+    {
+      "file": "frames/frame_109.19s.jpg",
+      "timestamp": 109.19241666666666
+    },
+    {
+      "file": "frames/frame_114.16s.jpg",
+      "timestamp": 114.15570833333332
+    },
+    {
+      "file": "frames/frame_119.12s.jpg",
+      "timestamp": 119.11899999999999
+    },
+    {
+      "file": "frames/frame_124.08s.jpg",
+      "timestamp": 124.08229166666666
+    },
+    {
+      "file": "frames/frame_129.05s.jpg",
+      "timestamp": 129.04558333333333
+    },
+    {
+      "file": "frames/frame_134.01s.jpg",
+      "timestamp": 134.008875
+    },
+    {
+      "file": "frames/frame_138.97s.jpg",
+      "timestamp": 138.97216666666665
+    },
+    {
+      "file": "frames/frame_143.94s.jpg",
+      "timestamp": 143.93545833333332
+    },
+    {
+      "file": "frames/frame_148.90s.jpg",
+      "timestamp": 148.89874999999998
+    },
+    {
+      "file": "frames/frame_153.86s.jpg",
+      "timestamp": 153.86204166666667
+    },
+    {
+      "file": "frames/frame_158.83s.jpg",
+      "timestamp": 158.82533333333333
+    },
+    {
+      "file": "frames/frame_163.79s.jpg",
+      "timestamp": 163.788625
+    },
+    {
+      "file": "frames/frame_168.75s.jpg",
+      "timestamp": 168.75191666666666
+    },
+    {
+      "file": "frames/frame_173.72s.jpg",
+      "timestamp": 173.71520833333332
+    },
+    {
+      "file": "frames/frame_178.68s.jpg",
+      "timestamp": 178.67849999999999
+    },
+    {
+      "file": "frames/frame_183.64s.jpg",
+      "timestamp": 183.64179166666665
+    },
+    {
+      "file": "frames/frame_188.61s.jpg",
+      "timestamp": 188.6050833333333
+    },
+    {
+      "file": "frames/frame_193.57s.jpg",
+      "timestamp": 193.56837499999997
+    },
+    {
+      "file": "frames/frame_198.53s.jpg",
+      "timestamp": 198.53166666666667
+    },
+    {
+      "file": "frames/frame_203.49s.jpg",
+      "timestamp": 203.49495833333333
+    },
+    {
+      "file": "frames/frame_208.46s.jpg",
+      "timestamp": 208.45825
+    },
+    {
+      "file": "frames/frame_213.42s.jpg",
+      "timestamp": 213.42154166666666
+    },
+    {
+      "file": "frames/frame_218.38s.jpg",
+      "timestamp": 218.38483333333332
+    },
+    {
+      "file": "frames/frame_223.35s.jpg",
+      "timestamp": 223.34812499999998
+    },
+    {
+      "file": "frames/frame_228.31s.jpg",
+      "timestamp": 228.31141666666664
+    },
+    {
+      "file": "frames/frame_233.27s.jpg",
+      "timestamp": 233.2747083333333
+    },
+    {
+      "file": "frames/frame_238.24s.jpg",
+      "timestamp": 238.23799999999997
+    },
+    {
+      "file": "frames/frame_243.20s.jpg",
+      "timestamp": 243.20129166666666
+    },
+    {
+      "file": "frames/frame_248.16s.jpg",
+      "timestamp": 248.16458333333333
+    },
+    {
+      "file": "frames/frame_253.13s.jpg",
+      "timestamp": 253.127875
+    },
+    {
+      "file": "frames/frame_258.09s.jpg",
+      "timestamp": 258.09116666666665
+    },
+    {
+      "file": "frames/frame_263.05s.jpg",
+      "timestamp": 263.0544583333333
+    },
+    {
+      "file": "frames/frame_268.02s.jpg",
+      "timestamp": 268.01775
+    },
+    {
+      "file": "frames/frame_272.98s.jpg",
+      "timestamp": 272.98104166666667
+    },
+    {
+      "file": "frames/frame_277.94s.jpg",
+      "timestamp": 277.9443333333333
+    },
+    {
+      "file": "frames/frame_282.91s.jpg",
+      "timestamp": 282.907625
+    },
+    {
+      "file": "frames/frame_287.87s.jpg",
+      "timestamp": 287.87091666666663
+    },
+    {
+      "file": "frames/frame_292.83s.jpg",
+      "timestamp": 292.8342083333333
+    },
+    {
+      "file": "frames/frame_297.80s.jpg",
+      "timestamp": 297.79749999999996
+    },
+    {
+      "file": "frames/frame_302.76s.jpg",
+      "timestamp": 302.76079166666665
+    },
+    {
+      "file": "frames/frame_307.72s.jpg",
+      "timestamp": 307.72408333333334
+    },
+    {
+      "file": "frames/frame_312.69s.jpg",
+      "timestamp": 312.687375
+    },
+    {
+      "file": "frames/frame_317.65s.jpg",
+      "timestamp": 317.65066666666667
+    },
+    {
+      "file": "frames/frame_322.61s.jpg",
+      "timestamp": 322.6139583333333
+    },
+    {
+      "file": "frames/frame_327.58s.jpg",
+      "timestamp": 327.57725
+    },
+    {
+      "file": "frames/frame_332.54s.jpg",
+      "timestamp": 332.5405416666666
+    },
+    {
+      "file": "frames/frame_337.50s.jpg",
+      "timestamp": 337.5038333333333
+    },
+    {
+      "file": "frames/frame_342.47s.jpg",
+      "timestamp": 342.46712499999995
+    },
+    {
+      "file": "frames/frame_347.43s.jpg",
+      "timestamp": 347.43041666666664
+    },
+    {
+      "file": "frames/frame_352.39s.jpg",
+      "timestamp": 352.39370833333334
+    },
+    {
+      "file": "frames/frame_357.36s.jpg",
+      "timestamp": 357.35699999999997
+    },
+    {
+      "file": "frames/frame_362.32s.jpg",
+      "timestamp": 362.32029166666666
+    },
+    {
+      "file": "frames/frame_367.28s.jpg",
+      "timestamp": 367.2835833333333
+    },
+    {
+      "file": "frames/frame_372.25s.jpg",
+      "timestamp": 372.246875
+    },
+    {
+      "file": "frames/frame_377.21s.jpg",
+      "timestamp": 377.2101666666666
+    },
+    {
+      "file": "frames/frame_382.17s.jpg",
+      "timestamp": 382.1734583333333
+    },
+    {
+      "file": "frames/frame_387.14s.jpg",
+      "timestamp": 387.13674999999995
+    },
+    {
+      "file": "frames/frame_392.10s.jpg",
+      "timestamp": 392.10004166666664
+    }
+  ]
+}

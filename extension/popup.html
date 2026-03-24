@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>YouTube Search</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <main class="app">
+    <h1>Video Search</h1>
+    <p id="videoUrl" class="video-url"></p>
+
+    <div class="row">
+      <button id="indexBtn">Index This Video</button>
+    </div>
+
+    <div class="row search-type">
+      <label>
+        <input type="radio" name="searchType" value="speech" checked />
+        Speech Search
+      </label>
+      <label>
+        <input type="radio" name="searchType" value="audio" />
+        Audio Search
+      </label>
+      <label>
+        <input type="radio" name="searchType" value="image" />
+        Visual Search
+      </label>
+    </div>
+
+    <div class="row">
+      <input id="queryInput" type="text" placeholder="e.g. guitar or person running" />
+      <button id="searchBtn">Search</button>
+    </div>
+
+    <p id="status" class="status"></p>
+    <ul id="results" class="results"></ul>
+  </main>
+  <script src="popup.js"></script>
+</body>
+</html>

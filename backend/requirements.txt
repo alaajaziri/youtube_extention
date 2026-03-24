@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+yt-dlp
+numpy
+faiss-cpu
+torch
+transformers
+librosa
+imageio-ffmpeg
+pydantic
+opencv-python
+Pillow

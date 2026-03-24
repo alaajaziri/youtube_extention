@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Audio Search",
+  "description": "Search sound moments in current YouTube video using text query.",
+  "version": "0.1.0",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "host_permissions": ["https://www.youtube.com/*", "http://127.0.0.1:8000/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_title": "YouTube Audio Search",
+    "default_popup": "popup.html"
+  }
+}

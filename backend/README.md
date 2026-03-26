@@ -1,16 +1,30 @@
 # Local API for YouTube Audio Search
 
-## Setup
+## Setup (first time only)
+
+Run from the **repo root**:
 
 ```bash
-cd backend
-..\.venv\Scripts\pip install -r requirements.txt
+# Windows
+python -m venv .venv
+.venv\Scripts\pip install -r backend\requirements.txt
+
+# Linux / macOS
+python3 -m venv .venv
+.venv/bin/pip install -r backend/requirements.txt
 ```
+
+> The first run downloads large ML models (CLAP, CLIP, Whisper). Wait until
+> `Application startup complete` appears before using the extension.
 
 ## Run
 
 ```bash
-..\.venv\Scripts\uvicorn app:app --reload --host 127.0.0.1 --port 8000
+# Windows
+.venv\Scripts\uvicorn app:app --reload --host 127.0.0.1 --port 8000 --app-dir backend
+
+# Linux / macOS
+.venv/bin/uvicorn app:app --reload --host 127.0.0.1 --port 8000 --app-dir backend
 ```
 
 ## Endpoints

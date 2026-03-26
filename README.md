@@ -7,11 +7,35 @@ This workspace now has:
 
 ## 1. Start backend
 
-```bash
-cd backend
-..\.venv\Scripts\pip install -r requirements.txt
-..\.venv\Scripts\uvicorn app:app --reload --host 127.0.0.1 --port 8000
+### Windows
+
+```bat
+start_backend.bat
 ```
+
+### Linux / macOS
+
+```bash
+bash start_backend.sh
+```
+
+### Manual setup (any platform)
+
+```bash
+# From the repo root, create a virtual environment (only needed once)
+python -m venv .venv
+
+# Windows
+.venv\Scripts\pip install -r backend\requirements.txt
+.venv\Scripts\uvicorn app:app --reload --host 127.0.0.1 --port 8000 --app-dir backend
+
+# Linux / macOS
+.venv/bin/pip install -r backend/requirements.txt
+.venv/bin/uvicorn app:app --reload --host 127.0.0.1 --port 8000 --app-dir backend
+```
+
+> **Note:** The first run downloads several large ML models (CLAP, CLIP, Whisper).
+> This can take several minutes. Wait until you see `Application startup complete` before using the extension.
 
 ## 2. Load extension
 
